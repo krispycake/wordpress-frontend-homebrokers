@@ -9,7 +9,8 @@ Created a frontend website for Home Brokers using WordPress, showcasing property
 ![image alt](https://github.com/krispycake/wordpress-frontend-homebrokers/blob/main/contact.png?raw=true)
 
 ## How to Use
-Unzip the themes zip folder or download themes individually
+Unzip the themes zip folder or download themes individually.
+
 Clone the repository:
    ```bash
    git clone https://github.com/krispycake/wordpress-frontend-homebrokers.git
