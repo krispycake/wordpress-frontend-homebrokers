@@ -1,7 +1,7 @@
 # wordpress-frontend-homebrokers
 Created a frontend website for Home Brokers using WordPress, showcasing property listings and services.
 
-# Check out the website here : [**https://brandenmac25.wordpress.com/**](https://brandenmac25.wordpress.com/)
+**Check out the website here** : [**https://brandenmac25.wordpress.com/**](https://brandenmac25.wordpress.com/)
 
 
 ![Image](https://github.com/user-attachments/assets/a6bd5c8d-d1fb-4f2e-aa2c-5b89faa3ca97)
